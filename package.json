@@ -62,7 +62,15 @@
   },
   "devDependencies": {
     "prettier": "^1.19.1"
-  },
-   "homework": {
+
+  }
+
+  ,
+  "manju": {
     "prettier": "^1.19.1"
+  },
+  "hw": {
+    "prettier": "^1.19.1"
+
+}
 }
